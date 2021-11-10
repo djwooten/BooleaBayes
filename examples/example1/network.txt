@@ -1,0 +1,12 @@
+A,B
+A,C
+A,D
+B,A
+B,C
+B,E
+D,A
+D,B
+D,C
+D,E
+E,B
+E,D

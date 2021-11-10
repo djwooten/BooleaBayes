@@ -1,0 +1,6 @@
+# Boolean rules
+A *= B and not D
+B *= A and not E and not D
+C *= D or (A and B)
+D *= not (A or E)
+E *= not B and not D
